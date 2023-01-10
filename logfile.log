@@ -1,0 +1,24 @@
+2022-11-11 03:04:45,463 : INFO : test_e2e : Getting all product titles
+2022-11-11 03:04:47,746 : INFO : test_e2e : Entering country name as ind
+2022-11-11 03:05:05,922 : INFO : test_formSubmission : firstname is vaishnavi
+2022-11-11 03:05:06,690 : INFO : test_formSubmission : email vaishnavi@gmail.com
+2022-11-11 03:05:15,266 : INFO : test_formSubmission : firstname is Suraj
+2022-11-11 03:05:15,266 : INFO : test_formSubmission : firstname is Suraj
+2022-11-11 03:05:15,406 : INFO : test_formSubmission : email Wankhade
+2022-11-11 03:05:15,406 : INFO : test_formSubmission : email Wankhade
+2022-11-23 09:03:39,276 : INFO : test_e2e : Getting all product titles
+2022-11-23 09:03:41,212 : INFO : test_e2e : Entering country name as ind
+2022-11-23 09:04:24,262 : INFO : test_formSubmission : firstname is vaishnavi
+2022-11-23 09:04:24,746 : INFO : test_formSubmission : email vaishnavi@gmail.com
+2022-11-23 09:04:33,270 : INFO : test_formSubmission : firstname is Suraj
+2022-11-23 09:04:33,270 : INFO : test_formSubmission : firstname is Suraj
+2022-11-23 09:04:33,580 : INFO : test_formSubmission : email Wankhade
+2022-11-23 09:04:33,580 : INFO : test_formSubmission : email Wankhade
+2023-01-09 05:53:16,067 : INFO : test_e2e : Getting all product titles
+2023-01-09 05:53:16,781 : INFO : test_e2e : Entering country name as ind
+2023-01-09 05:53:27,599 : INFO : test_formSubmission : firstname is vaishnavi
+2023-01-09 05:53:27,877 : INFO : test_formSubmission : email vaishnavi@gmail.com
+2023-01-09 05:53:34,703 : INFO : test_formSubmission : firstname is Suraj
+2023-01-09 05:53:34,703 : INFO : test_formSubmission : firstname is Suraj
+2023-01-09 05:53:34,927 : INFO : test_formSubmission : email Wankhade
+2023-01-09 05:53:34,927 : INFO : test_formSubmission : email Wankhade
