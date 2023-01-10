@@ -51,7 +51,7 @@ class TestOne(BaseClass):
         assert "Success! Thank you!" in SuccessMsg
         #self.driver.close()
 
-        print("Accents name")
+        print("Accents name showing")
 
 
 
