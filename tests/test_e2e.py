@@ -52,6 +52,7 @@ class TestOne(BaseClass):
         #self.driver.close()
 
         print("Accents name showing")
+        print("Deccor")
 
 
 
